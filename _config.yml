@@ -16,7 +16,7 @@
 title: Classical Quarterly Corpus
 email: ltc19@my.fsu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The Classical Quarterly, 1907-1925, vol. 1-19
+  This project seeks to understand the changing structure and interests of the Classical Quarterly Journal at the beginning of the twentieth century. I have worked to clean and structurally format plain text files of volumes 1-19 of The Classical Quarterly, from 1907-1925. Here you can find my blog where I report my progress through cleaning and analyzing these journal volumes.
 twitter_username: 
 github_username: lucycrenshaw
 minimal_mistakes_skin: dark
