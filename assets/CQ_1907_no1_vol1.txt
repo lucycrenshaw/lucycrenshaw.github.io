@@ -1,0 +1,73 @@
+@new-page1@
+
+@issue-title THE CLASSICAL QUARTERLY APRIL 1907
+!!start-articles!!@article-title AN ARATVS FRAGMENT IN THE BRITISH MUSEUM.@
+@start-article@WITH B. M. Pap. 273 (described and in part published by Kenyon in the Album Gratulatorium in honorem H. van Herwerden, Utrecht, 1902, pp. 137–142), which consists of a number of fragments from a papyrus book containing an unknown epic on the subject of Dionysus and his Indian expedition, is bound up a small fragment, evidently by a different hand. This (Pap. 2736) I have recently identified as from the Phaenomena of Aratus; and I therefore publish it here.
+Apparently no papyrus fragment of this poem has yet been discovered ; there is, however, at Berlin (Pap. Ber. 5865) a portion of a commentary on Aratus, which has been published by Maass in his Commentariorum in Aratum Reliquiae, Berlin, 1898, pp. 556-558.
+The present fragment is very small, measuring only 52 mm. x 45 mm., and, like the fragments of the Dionysus epic, is from a codex, not a roll. As the writing on the verso comes from an earlier portion of the poem than that on the recto, it follows that the fragment must have belonged to the first half of a folded sheet of papyrus. On the verso, which contains the beginnings of lines, there is no margin, the first 2-4 letters of each line being lost; the recto, which contains the ends of lines, has, in its present state, a margin of 17 mm. The Dionysus fragments illustrate how broad the margin of a codex might be; and allowing for the lost letters of the verso and the margin there, it is clear that the margin of the recto must have been at least double its present breadth, and perhaps considerably more. This is important for the restoration of the gloss on line 811.
+The writing, which is a medium-sized uncial, appears to be of the fourth century. There are, in the extant portion, no marks of punctuation, but there is one smooth breathing (l. 812) by the original scribe, and two accents (1l. 811 and
+@page-footer NO. I. VOL. I.@
+
+
+@new-page2@
+
+@page-header H. I. BELL@
+
+814) have been added later. The ink of the text is of a reddish colour ; but the first gloss on the recto, which is by a different hand, is written in black ink. The character of the MS., so far as can be judged from this small fragment, does not appear to have been very good. In the twenty-six lines so imperfectly represented there are two (11. 751 and 804) obvious blunders, one line (813) entirely omitted, and in l. 748 a variant reading which, if the conjectural restoration is correct, seems also to be a mere blunder.
+The papyrus has been compared with the editions of Bekker (Berlin, 1828) and Maass (ib., 1893). In this transcript the portion preserved in the MS. has been given (except for separation of words) exactly as it stands in the original, without accents or punctuation marks, except where the original has them.
+Verso.
+74I [άρκια] [έξειπείν. τα δε που μέγαν εις ενιαυτόν,]
+[ώρη] μ[έν] τ α[ρόσαι νειούς, ώρη δε φυτεύσαι,]
+[έκ] διος ηδη [πάντα περασμένα πάντοθι κείται.]
+[και μεν τις και νηί πολυκλύστου χειμώνος]
+745 [έφράσατ [η] δ[εινού μεμνημένος 'Αρκτούροιο]
+[ήέ τ]εων αλ[Α]ω[ν οί τ' ωκεανού άρύονται]
+[άστ]ερες αμφιλύκης οι τε πρώτης επί νυκτός.]
+η γαρ τους παντας αμείβεται εις ενιαυτόν]
+[ήέ]λιος μεγαν ογμον ελαύνων, άλλοτε δ' άλλω]
+750 [εμπλησσει τοτε μεν τ[' ανιών τοτε δ' αυτίκα δύνων]
+[άλλ]ος αλλοιην [άσ]τηρ ε[πιδέρκεται ηώ.]
+[γινωσκεις [τάδε και σύ: τα γάρ συναείδεται ήδη]
+[έν]ν[e]ακ[αίδεκα κύκλα φαεινού ήελίοιο,]
+. 748. Codd. ήτοι. There cannot be more than two letters lost. Qu. ήδη ?
+749. The cross-stroke of the e of μέγαν is continuous with the top stroke of Y, so that the word looks like μεταν.
+750. Βekk. έμπελάσει. Most of the MSS. read εμπλήσσει, as here, or έμπλή-
+σει. Maass reads έμπελάει.
+75 1. δ' omitted.
+753. Only the tops of letters remain, and the readings are doubtful. The letter read as v looks more like i, there being no trace of the cross stroke.
+Recto.
+[άλλοθι δ' άλλο μελαινομένη δοκέειν υ]ετροι[0]
+805 [σήματα δ' ούτ' άρ πάσιν επ' ήμασι πάντα τέτυκτ]αι
+[άλλ' όσα μεν τριτάτη τε τεταρταίη τε πέλονται
+[μέσφα διχαιομένης, διχάδος γε μεν άχρις επ' αυτην
+[σημαίνει διχόμηνον, ατάρ πάλιν εκ διχομήν]ου.
+[ές διχάδα φθιμένην· έχεται δε οι α]υτικα [τ]ετρα[s]
+
+
+@new-page3@
+
+@page-header AN ARATVS FRAGMENT IN THE BRITISH MUSEUM 3@
+
+8Ιο [μηνός απoιχομένου, τη δε τριτάτ]η []πιοντος
+[εί δε κέ μιν περί πάσαν άλωαι κυ]κλώσωνται
+αικαλουμεν[
+πεπυκνωμί
+[ή τρείς ήε δύω περικείμεναι ηε] μι διη
+ειδειСνεφοСμε
+[ρηγνυμένη ανέμοιο, μαραινομένη] δε γαλήνης
+γαληνα.[
+815 [ται δύο δ' αν χειμώνι περιτροχάοιντο] σεληνην
+[μείζονα δ' άν χειμώνα φέροι τριελι]κτ[ο]ς [ά] [ω]η
+804. υετοοιο: sic, apparently.
+805. Only the end of the down stroke of a remains, and the has a loop to the left at the top, so that the whole looks like 0.
+810. The n is doubtful.
+811. Accent by the same hand as the first marginal note.
+812. Smooth breathing by the original scribe.
+813. τη μεν ιη ανέμοιο γαληναίης τε δοκεύειν, omitted.
+814. Accent by the same hand as in 811.
+Marginal notes: the first three lines are in a darker ink than the text, and by a different hand. The $ in the third line was read by Mr. Kenyon, who suggests that the whole is a note on årwal, and that it ran somewhat as follows :-ai kalov- μεν[αι άλωαι εξ αέρος] πεπυκνωμένου...] ει δ' εις νέφος ... Perhaps αι καλούμεναι άλωαι εξ αέρος πεπυκνωμένου συνίστανται, ει δ' εις νέφος μεταβάλλουσι [την σελήνην κρύπτουσιν ? or χειμών έσται (Κ.) ?]. The μ at the end of 1. 2 is very doubtful : that in l. 3 is inferred only from a projecting tail.
+The second note is evidently some case of yarnvain, but its purpose is not obvious. It can hardly be an alternative reading to, or explanation of, γαλήνης ; but it may have some reference to the omitted line. It is apparently in the same hand as the text, though the ink seems slightly darker.
+@article-author H. I. BELL.@
+Since the above article was written another and much longer fragment of Aratus has been published in Berliner Klassikertexte, Heft V, ite Hälfte, pp. 47–54. In this the first, but not the second, of the passages contained in the British Museum fragment is included.
+Η. Ι. Β.
+Β 2@end-article@

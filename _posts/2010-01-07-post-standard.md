@@ -1,6 +1,6 @@
 ---
 title: "Post: Standard"
-excerpt_separator: "<!--more-->"
+excerpt_separator: 
 categories:
   - Blog
 tags:
