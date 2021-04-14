@@ -47,4 +47,4 @@ The goal for these tags is to help me discern the overall structure of the text.
 Because my focus was on structure and not the text itself, you will likely note that the text itself is a bit of a mess. The nature of the articles in these early volumes of the *Classical Quarterly* (largely philological and technical) means that there are a lot of tables and notation for diagramming sentences or counting syllables that do not translate well into plain text. Add in the fact that ancient Greek is used fairly frquently and you've got a recipe for a disaster OCR text. The process of cleaning up the text itself will take a lot longer and will require significant cleaning by hand. Because I wanted to learn specific skills like using regular expressions, I narrowed my focus.
 
 
-[Text Enrichment Part 2 Here](https://lucycrenshaw.github.io/blog/text-enrichment-pt2/)
+[Text Enrichment Part 2](https://lucycrenshaw.github.io/blog/text-enrichment-pt2/)
