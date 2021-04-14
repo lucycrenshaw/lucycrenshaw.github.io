@@ -30,9 +30,7 @@ classes: wide
 * Reviews
 * Summaries of Periodicals
 
-## Plain Text in Sublime Text:
-### Tags:
-
+### Plain Text in Sublime Text:
 * `@new-page` and `@` bracket page breaks
 * `@page-header` and `@` bracket page headers such as article title, author name, and page number
 * `@article-title` marks the title of each article
@@ -42,8 +40,7 @@ classes: wide
 * `!!start-articles!!` and `!!end-articles!!` brackets the articles and reviews section of each issue
 * `!!start-summaries-of-periodicals!!` and `!!end-summaries-of-periodicals!!` brackets summaries of periodicals section
 
-## TEI XML in Oxygen
-### Divisions and tags
+### TEI XML in Oxygen
 * For the front matter of the volume:`<div type="FrontMatter">`
 * For the issues section of the volume: `<div type="Issues">`
 * For the index of the volume: `<div type="Index">`
